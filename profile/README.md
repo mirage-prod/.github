@@ -1,4 +1,4 @@
-<div align="center>
+<div align="center">
 
 # mirage
 в прошлом призёры финального этапа НТО.
